@@ -1,0 +1,3 @@
+# uncomment to apply listener
+# service.loader.LoggerListener
+com.nordstrom.automation.testng.ListenerChain
